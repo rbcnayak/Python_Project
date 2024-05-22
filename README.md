@@ -20,5 +20,7 @@ To conduct an initial data and exploratory analysis to uncover sales patterns. T
 ## Stakeholders
 
 **Vice President of Marketing**: “We’re always looking into improving our targeting for ad campaigns.”
+
 **Senior Vice President of Sales**: “We need to know what part of our offering has the lowest market share and why. Based on this input, we could improve this sector and boost sales.”
+
 **Customer**: “I want to receive ads, promotions, and recommendations that are relevant to the products I order regularly.”
