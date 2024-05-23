@@ -1,4 +1,4 @@
-# Synopsys Python_Project
+# Synopsis of Python Project (Instacart)
 Instacart is an online grocery store that operates through an app. The primary objective of this project is to conduct an initial data and exploratory analysis of some of their data to uncover sales patterns. The goal is to derive insights and suggest strategies for improved segmentation based on the provided criteria.
 
 ## Key Questions
