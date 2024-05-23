@@ -1,6 +1,5 @@
-# Python_Project
-## Project Objective
-To conduct an initial data and exploratory analysis to uncover sales patterns. The goal is to derive insights and suggest strategies for improved segmentation based on the provided criteria.
+# Synopsys Python_Project
+Instacart is an online grocery store that operates through an app. The primary objective of this project is to conduct an initial data and exploratory analysis of some of their data to uncover sales patterns. The goal is to derive insights and suggest strategies for improved segmentation based on the provided criteria.
 
 ## Key Questions
 
@@ -13,14 +12,14 @@ To conduct an initial data and exploratory analysis to uncover sales patterns. T
 - Are there certain types of products that are more popular than others? The marketing and sales teams want to know which departments have the highest frequency of product orders.
 
 - The marketing and sales teams are particularly interested in the different types of customers in their system and how their ordering behaviors differ. For example:
-○ What’s the distribution among users in regards to their brand loyalty (i.e., how often do they return to Instacart)?
-○ Are there differences in ordering habits based on a customer’s loyalty status?
-○ Are there differences in ordering habits based on a customer’s region?
+  
+     - What’s the distribution among users in regards to their brand loyalty (i.e., how often do they return to Instacart)?
 
-## Stakeholders
+     - Are there differences in ordering habits based on a customer’s loyalty status?
 
-**Vice President of Marketing**: “We’re always looking into improving our targeting for ad campaigns.”
+     - Are there differences in ordering habits based on a customer’s region?
 
-**Senior Vice President of Sales**: “We need to know what part of our offering has the lowest market share and why. Based on this input, we could improve this sector and boost sales.”
+## Data
 
-**Customer**: “I want to receive ads, promotions, and recommendations that are relevant to the products I order regularly.”
+The customer data set was created and included by CareerFoundry for learning purposes. The rest is open-source data set from Instacart, “The Instacart Online Grocery Shopping
+Dataset 2017”, accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on <date>.
